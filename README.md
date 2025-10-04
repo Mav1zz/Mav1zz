@@ -28,6 +28,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/mav1zz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mav1zz" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mav1zz&show_icons=true&theme=dark&locale=tr&layout=compact" alt="mav1zz" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mav1zz&show_icons=true&theme=dark&locale=tr&layout=compact" alt="mav1zz" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mav1zz&show_icons=true&locale=tr" alt="mav1zz" /></p>
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mav1zz&show_icons=true&locale=tr" alt="mav1zz" />
