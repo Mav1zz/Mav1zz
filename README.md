@@ -1,28 +1,60 @@
-<h1>Hi 👋 i'm maviz</h1>
-<h3>ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ● ᴘʀᴏɢʀᴀᴍᴍᴇʀ ● ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ɴᴏᴛ ᴠᴇʀʏ)</h3>
+# Hi there, I'm Maviz 👋
 
-<p> <img src="https://komarev.com/ghpvc/?username=mav1zz&label=Profile%20views&color=A020F0&style=flat" alt="mav1zz" /> </p>
-
-- 🔭 I’m currently working on [Mounoa](https://github.com/Mav1zz/Mounoa)
-- 🌱 I’m currently learning **C#, C++, Java, Haxe**
-- 🤝 I’m looking for help with [Jump.demo](https://github.com/Mav1zz/Jump.demo)
-- 👨‍💻 All of my projects are available at [https://github.com/Mav1zz?tab=repositories](https://github.com/Mav1zz?tab=repositories)
-- 📫 How to reach me **maviz (It's just Discord, and this is my Discord name.)**
-- ⚡ Fun fact **I'm known as a hacker, I don't know why. I can draw. That's about it, I don't have any other talents.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/maviz.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maviz.py" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mavizoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mavizoffical" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mav1zz&label=Profile%20views&color=A020F0&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ • ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ • ᴄʀᴇᴀᴛɪᴠᴇ ᴄᴏᴅᴇʀ
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/mav1zz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mav1zz" /></a></p><br><br>
+I'm a developer passionate about cybersecurity, always learning and building new projects. I enjoy exploring different programming languages and creating tools that solve real problems.
 
-<h3 align="left">Info's:</h3>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mav1zz&show_icons=true&theme=dark&locale=tr&layout=compact" alt="mav1zz" />
+---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mav1zz&show_icons=true&locale=tr" alt="mav1zz" />
+## 🚀 What I'm Up To
+
+- 🔭 Currently working on **[Mounoa](https://github.com/Mav1zz/Mounoa)**
+- 🌱 Learning **C#, C++, Java, and Haxe**
+- 🤝 Looking for collaboration on **[Jump.demo](https://github.com/Mav1zz/Jump.demo)**
+- 💼 Check out my projects at **[My Repositories](https://github.com/Mav1zz?tab=repositories)**
+- 🎨 Fun fact: I'm a hacker (apparently!) and I love to draw
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+### Tools & Frameworks
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=mav1zz&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+<br><br>
+<p align="center">
+  <i>Let's build something amazing together! 🚀</i>
+</p>
+<br>
