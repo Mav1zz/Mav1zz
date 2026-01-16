@@ -1,4 +1,4 @@
-<h1>Hi 👋</h1>
+<h1>Hi 👋 i'm maviz</h1>
 <h3>ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ● ᴘʀᴏɢʀᴀᴍᴍᴇʀ ● ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ɴᴏᴛ ᴠᴇʀʏ)</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=mav1zz&label=Profile%20views&color=A020F0&style=flat" alt="mav1zz" /> </p>
